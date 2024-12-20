@@ -27,12 +27,14 @@ coverage
 # OS generated files
 .DS_STORE
 
-# Nuxt generated files
-.nuxt
-.output
-
-# Next generated files
-.next
-
 # Cypress generated files
 **/cypress/screenshots
+
+# Local version of changeset's changelog
+.changeset/changelog.js
+
+.turbo
+.cache_ggshield
+
+# Docs Nuxt temp directory
+docs/.nuxt/
