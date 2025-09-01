@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@clack/core": "^0.2.1",
-    "@clack/prompts": "^0.5.1",
+    "@clack/prompts": "^0.11.0",
     "@oclif/core": "^1.19.2",
     "@oclif/plugin-help": "^5.1.16",
     "@oclif/plugin-plugins": "^2.1.5",
